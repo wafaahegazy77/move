@@ -1,0 +1,4 @@
+<svg id="Group" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <path id="Path" d="M16,0a4,4,0,0,1,4,4V16a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" fill="#07133b"/>
+  <path id="Shape" d="M8.3,11,5.4,7.166,2.087,11H.235l4.3-4.971L0,0H3.783L6.417,3.517,9.444,0H11.3L7.278,4.654,12,11Z" transform="translate(4 5)" fill="#fff"/>
+</svg>
